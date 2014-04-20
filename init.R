@@ -4,5 +4,5 @@ repeat {
     break;
 print (valtozo);
 valtozo = valtozo + 1;
-} > init.R
+}
 
